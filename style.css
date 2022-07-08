@@ -1,0 +1,18 @@
+/* .stButton>button {
+    color: tomato;
+    border-radius: 5%;
+    height: 3em;
+    width: 3em;
+} */
+
+.stTextInput>div>div>input {
+   
+    color: #ff6347;
+}
+
+
+.stTextInput>div{
+    margin-top: -7%;
+    color: tomato;
+}
+
