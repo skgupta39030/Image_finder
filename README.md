@@ -4,7 +4,7 @@ Image finder is a Web Application aims to find the desired image which user sear
 
 ## About:
 
-In our day-to-day life we take countless screenshots, but after sometime when we again want that particular screenshot then it becomes very tedious task to find the desired one.
+In our day-to-day life we captures countless images, but after sometime when we again want a particular image then it becomes very tedious task to find the desired one.
 
 
 ###  Programming Languages:
@@ -44,5 +44,6 @@ Python Programming Language
 
 ### License
 <!-- [MIT]   can be changed -->
+Open Source, can be use for educational purposes.
 
 
